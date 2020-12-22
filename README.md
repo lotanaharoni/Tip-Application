@@ -1,4 +1,4 @@
-<img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/APP.gif?raw=true" align="left" width = 300px height = 300px  hspace="1" vspace="1"/>
+<img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/APP.gif?raw=true" align="left" width = 300px height = 400px  hspace="1" vspace="1"/>
 
 # Tip Application
 
@@ -19,7 +19,7 @@ I used Andriod Studio and Firebase. The project is written in Java.
 #### 2. Click the '+' button at the bottom
 #### 3. Provide a name for your team and optionally upload an avatar and add teammates using their email addresses
 <p align="center">
-<img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/Tip_create_acount.gif?raw=true" width = 300px height =300px/>
+<img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/Tip_create_acount.gif?raw=true" width = 300px height =400px/>
 </p>
 
 ## Logout
@@ -28,7 +28,7 @@ I used Andriod Studio and Firebase. The project is written in Java.
 #### 2. Click the 'Invite New Players' button
 #### 3. Share the invite link via your favorite method (e.g. whatsapp, email, etc...)
 <p align="center">
-<img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/Tip_logout.gif?raw=true" width = 300px height =300px/>
+<img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/Tip_logout.gif?raw=true" width = 300px height =400px/>
 </p>
 
 ## Create an event
