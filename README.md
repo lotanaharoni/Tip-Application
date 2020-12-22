@@ -3,7 +3,8 @@
 # Tip Application
 
 
-This is an [**Android**](https://developer.android.com) project. This app is designed for for students to help each other.
+This is an [**Android**](https://developer.android.com) project. This app is designed for students to help each other. <br>
+This app allows students to view and add university focused recommendations according to pre-determined categories.
 <br><br>
 I used Andriod Studio and Firebase. The project is written in Java.
 
