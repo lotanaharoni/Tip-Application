@@ -22,7 +22,7 @@ I used Andriod Studio and Firebase. The project is written in Java.
 
 ## Logout
 ### In the main page click on the "LOGOUT" buttton
-#### Click OK if you wish to logout
+#### Click 'YES' if you wish to logout
 <p align="center">
 <img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/Tip_logout.gif?raw=true" width = 300px height =450px/>
 </p>
