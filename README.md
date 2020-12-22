@@ -4,7 +4,8 @@
 
 
 This is an [**Android**](https://developer.android.com) project. This app is designed for students to help each other. <br>
-This app allows students to view and add university focused recommendations according to pre-determined categories.
+This app allows students to view and add university focused recommendations according to pre-determined categories.<br>
+Every Tip has a 'Likes counter'. Every register user can add a 'Like' to every Tip. The Tips are arranged by the number of likes they have.
 <br><br>
 I used Andriod Studio and Firebase. The project is written in Java.
 
@@ -39,4 +40,5 @@ I used Andriod Studio and Firebase. The project is written in Java.
 #### 1. Add new Tip according to pre-determined categories
 #### 2. When created, the Tip's counter is 0
 <p align="center">
+  <img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/Add_Tip.gif?raw=true" width = 300px height =450px/>
 </p>
