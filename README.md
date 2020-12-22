@@ -13,9 +13,9 @@ I used Andriod Studio and Firebase. The project is written in Java.
 <br>
 
 ## Create an acount
-#### 1. Click the 'My Teams' button
-#### 2. Click the '+' button at the bottom
-#### 3. Provide a name for your team and optionally upload an avatar and add teammates using their email addresses
+#### 1. Click the 'Sign up' button
+#### 2. Enter a valid email address
+#### 3. Click the 'Create acount' button
 <p align="center">
 <img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/Tip_create_acount.gif?raw=true" width = 300px height =450px/>
 </p>
