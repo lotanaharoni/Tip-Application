@@ -1,4 +1,4 @@
-<img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/APP.gif?raw=true" align="left" width = 300px height = 200px  hspace="1" vspace="1"/>
+<img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/APP.gif?raw=true" align="left" width = 300px height = 300px  hspace="1" vspace="1"/>
 
 # Tip Application
 
