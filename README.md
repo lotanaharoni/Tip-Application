@@ -15,16 +15,14 @@ I used Andriod Studio and Firebase. The project is written in Java.
 ## Create an acount
 #### 1. Click the 'Sign up' button
 #### 2. Enter a valid email address
-#### 3. Click the 'Create acount' button
+#### 3. Click the 'CREATE ACOUNT' button
 <p align="center">
 <img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/Tip_create_acount.gif?raw=true" width = 300px height =450px/>
 </p>
 
 ## Logout
-### We use "invite links" to make it super easy for you to invite your friends to the team
-#### 1. In your team page, click the top menu button
-#### 2. Click the 'Invite New Players' button
-#### 3. Share the invite link via your favorite method (e.g. whatsapp, email, etc...)
+### In the main page click on the "LOGOUT" buttton
+#### Click OK if you wish to logout
 <p align="center">
 <img src="https://github.com/lotanaharoni/Tip-Application/blob/main/images/Tip_logout.gif?raw=true" width = 300px height =450px/>
 </p>
